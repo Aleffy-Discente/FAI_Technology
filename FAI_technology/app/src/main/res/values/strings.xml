@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FAI_technology</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imagem_aleatoria">Mostrar imagem aleatória</string>
+    <string name="imagem_cachorro">Imagem de cachorro aleatória</string>
+</resources>
