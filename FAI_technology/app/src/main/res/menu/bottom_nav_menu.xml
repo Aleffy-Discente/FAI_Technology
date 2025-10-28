@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/energyCalculatorFragment"
+        android:title="Energia"
+        android:icon="@android:drawable/ic_menu_manage" />
+
+    <item
+        android:id="@+id/dogImageFragment"
+        android:title="Imagem"
+        android:icon="@android:drawable/ic_menu_camera" />
+</menu>
